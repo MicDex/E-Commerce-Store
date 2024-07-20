@@ -116,7 +116,8 @@
 
 ## Map
 - **Description:** Visual representation of geographic information showing spatial relationships between locations, features, and data.
-  ![image](https://github.com/user-attachments/assets/78bbf2e4-5846-4303-8cbe-7971ea31ab75)
+  ![Cae](https://github.com/user-attachments/assets/1f42632b-1bff-4c59-a25e-1f79af6588cf)
+
 
 
 ## Note
